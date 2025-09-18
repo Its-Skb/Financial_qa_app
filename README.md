@@ -26,7 +26,7 @@ An AI-powered web application that processes financial documents (PDF and Excel 
 ## 🚀 Installation
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/financial-qa-app.git
+git clone https://github.com/Its-Skb/Financial_qa_app.git
 cd financial-qa-app
 
 text
